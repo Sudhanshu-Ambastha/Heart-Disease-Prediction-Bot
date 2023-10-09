@@ -13,5 +13,5 @@ Deployment through:-
 [1st  create a new environment, 
 2nd choose the environment and open spyder more anaconda, 
 3rd after openning it type the program from Heart disease prediction with spyder.py
-4th after that add a new file in it type program from Heart disease completed.py after that run it you will get result something like this "streamlit run c:\users\sudha\onedrive\desktop\heart disease prediction data\heart disease completed.py"
+4th after that add a new file in it type program from Heart disease completed.py after that run it you will get result something like this "streamlit run c:\users\sudha\onedrive\desktop\heart disease prediction data\heart disease completed.py" in the spyder terminal.
 5th open the open the environment via terminal just paste it in Anaconda spyder it will open localhost to run it your deployment work is done]
