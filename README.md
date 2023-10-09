@@ -10,3 +10,4 @@ Google Colab file (heart_disease_prediction.ipynb)
 Deployment through:-
 1)Pictoblox file
 2)Spyder via Anaconda (2 files)
+[you have to open spyder more anaconda, 1st type the program from Heart disease prediction with spyder.py & after that add a new file in it type program from Heart disease completed.py after that run it you will get result something like this "streamlit run c:\users\sudha\onedrive\desktop\heart disease prediction data\heart disease completed.py" just paste it in Anaconda spyder
