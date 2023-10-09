@@ -1,3 +1,10 @@
 # Heart-Disease-Prediction-Bot
-Data files:- heart.csv, Heart_Disease_Prediction.csv, heart_diseaase_data.csv
-Google Colab file
+It consists of:-
+Data files:- 
+1) heart.csv
+2) Heart_Disease_Prediction.csv
+3) heart_diseaase_data.csv
+Google Colab file (heart_disease_prediction.ipynb)
+Deployment through:-
+1)Pictoblox file
+2)Spyder via Anaconda (2 files)
