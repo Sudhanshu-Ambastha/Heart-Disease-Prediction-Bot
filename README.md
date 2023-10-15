@@ -36,7 +36,3 @@ To use the Heart Disease Prediction project, follow these steps:
 3. Run the code to predict heart disease based on the provided dataset.
 
 Feel free to expand on this README to provide additional details about the project, its objectives, and how to interpret the predictions or use the PictoBlox version for educational purposes.
-
-**License:** This project is licensed under XYZ License. See the [LICENSE](LICENSE) file for details.
-
-Modify and enhance this README to suit your specific project requirements.
