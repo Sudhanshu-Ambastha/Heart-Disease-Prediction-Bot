@@ -1,17 +1,42 @@
-# Heart-Disease-Prediction-Bot
-It consists of:-
-Data files:- 
-1) heart.csv 
-[the above data is used to predict Angiography (Coronary Angiography) which is a type of heart disease]
-2) Heart_Disease_Prediction.csv
-3) heart_diseaase_data.csv
-[the above 2 data is used to predict Exercise Stress Test (Stress ECG or Treadmill Test) which is a type of heart disease]
-Google Colab file (heart_disease_prediction.ipynb)
-Deployment through:-
-1)Pictoblox file
-2)Spyder via Anaconda (2 files)
-[1st  create a new environment, 
-2nd choose the environment and open spyder more anaconda, 
-3rd after openning it type the program from Heart disease prediction with spyder.py
-4th after that add a new file in it type program from Heart disease completed.py after that run it you will get result something like this "streamlit run c:\users\sudha\onedrive\desktop\heart disease prediction data\heart disease completed.py" in the spyder terminal.
-5th open the open the environment via terminal just paste it in Anaconda spyder it will open localhost to run it your deployment work is done]
+# Heart Disease Prediction
+
+## Table of Contents
+
+- [About](#about)
+- [Files](#files)
+- [Features](#features)
+- [Usage](#usage)
+
+## About
+
+The Heart Disease Prediction project focuses on predicting heart disease using machine learning models. The project includes various files and models designed for heart disease prediction.
+
+## Files
+
+1. **Heart disease completed.py (working main model):** This file contains the primary code for the heart disease prediction model.
+2. **Heart disease prediction with pictoblox.sb3:** A version of the heart disease prediction model implemented in PictoBlox, a visual programming language.
+3. **Heart disease prediction with spyder.py (same as google collab file but just a Spyder version):** A Spyder version of the code for heart disease prediction.
+4. **Heart_Disease_Prediction.csv:** A dataset used for improving prediction scores.
+5. **heart.csv:** A dataset used for heart disease prediction.
+6. **heart_disease_data.csv:** Another dataset used in the project.
+7. **heart_disease_prediction.py (Google Colab file):** A Google Colab version of the heart disease prediction model.
+
+## Features
+
+- Utilizes three different CSV datasets to improve prediction scores.
+- Trained on a logistic regression model.
+- Provides a PictoBlox version for educational purposes and ease of understanding.
+
+## Usage
+
+To use the Heart Disease Prediction project, follow these steps:
+
+1. Choose the appropriate file for your needs: "Heart disease completed.py," "Heart disease prediction with spyder.py," or "heart_disease_prediction.py."
+2. Ensure that you have the required datasets: "Heart_Disease_Prediction.csv," "heart.csv," and "heart_disease_data.csv."
+3. Run the code to predict heart disease based on the provided dataset.
+
+Feel free to expand on this README to provide additional details about the project, its objectives, and how to interpret the predictions or use the PictoBlox version for educational purposes.
+
+**License:** This project is licensed under XYZ License. See the [LICENSE](LICENSE) file for details.
+
+Modify and enhance this README to suit your specific project requirements.
