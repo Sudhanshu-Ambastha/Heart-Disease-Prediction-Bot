@@ -9,7 +9,7 @@
 
 ## About
 
-The Heart Disease Prediction project focuses on predicting heart disease using machine learning models. The project includes various files and models designed for heart disease prediction.
+The Heart Disease Prediction project is dedicated to utilizing machine learning models to predict the likelihood of heart disease. This repository contains a collection of files, datasets, and machine learning models tailored for heart disease prediction. These resources aim to facilitate early detection and risk assessment of heart disease, enabling individuals to make informed health decisions.
 
 ## Files
 
