@@ -34,3 +34,9 @@ To use the Heart Disease Prediction project, follow these steps:
 1. Choose the appropriate file for your needs: "Heart disease completed.py," "Heart disease prediction with spyder.py," or "heart_disease_prediction.py."
 2. Ensure that you have the required datasets: "Heart_Disease_Prediction.csv," "heart.csv," and "heart_disease_data.csv."
 3. Run the code to predict heart disease based on the provided dataset.
+
+## Troubleshooting
+If you encounter any issues or have questions, please don't hesitate to reach out for support.
+
+## Author
+Sudhanshu Ambastha
