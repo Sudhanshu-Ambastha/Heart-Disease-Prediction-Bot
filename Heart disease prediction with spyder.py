@@ -8,7 +8,7 @@ import numpy as np
 import pickle
 
 # loading the saved model
-loaded_model = pickle.load(open('C://Users//sudha//Downloads//Heart disease prediction bot trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('models/heart_disease_model.sav', 'rb'))
 
 
 input_data = (58,0,0,100,248,0,0,122,0,1,1,0,2)
