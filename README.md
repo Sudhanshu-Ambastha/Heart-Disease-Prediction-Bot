@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-![Web capture_16-12-2023_151450_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/af7e9134-b44e-4223-b197-c21e4d0d5d84)
+![Web capture_16-12-2023_151450_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/92c4579a-3eb8-4675-a52c-e8741d9af482)
 ![Web capture_16-12-2023_151538_localhost](https://github.com/Sudhanshu-Ambastha/Google-background/assets/135802131/f1eab2a5-d693-48d5-8e24-41e465ac42ec)
 
 
