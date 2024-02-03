@@ -45,4 +45,4 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 Happy predicting! 🤖💙
 
 ## Contributors
-[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha),[Vishwas Shrivastava](https://github.com/Vishwas567917)
+[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha), [Vishwas Shrivastava](https://github.com/Vishwas567917)
