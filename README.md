@@ -45,6 +45,6 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 Happy predicting! 🤖💙
 
 ## Contributors
-<a href = "https://github.com/Sudhanshu-Ambastha/Heart-Prediction-Bot/contributors">
-  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Heart-Prediction-Bot"/>
+<a href = "https://github.com/Sudhanshu-Ambastha/Heart-Diasease-Prediction-Bot/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Heart-Disease-Prediction-Bot"/>
 </a>
