@@ -45,4 +45,6 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 Happy predicting! 🤖💙
 
 ## Contributors
-[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha), [Vishwas Shrivastava](https://github.com/Vishwas567917)
+<a href = "https://github.com/Sudhanshu-Ambastha/Heart-Prediction-Bot/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Heart-Prediction-Bot"/>
+</a>
