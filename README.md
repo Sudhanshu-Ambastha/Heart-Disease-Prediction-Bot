@@ -25,6 +25,11 @@ The Heart Disease Prediction project is dedicated to utilizing machine learning 
 6. **heart_disease_data.csv:** Another dataset used in the project.
 7. **heart_disease_prediction.py (Google Colab file):** A Google Colab version of the heart disease prediction model.
 
+## Data Sources
+
+- Heart disease dataset: Kaggle Heart Disease Dataset
+  - [heart.csv](https://www.kaggle.com/code/desalegngeb/heart-disease-predictions/input)
+
 ## Features
 
 - Utilizes three different CSV datasets to improve prediction scores.
